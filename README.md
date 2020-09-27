@@ -31,7 +31,9 @@ For more information, one may refer to the [pySerial installation instructions](
 
 ## Usage
 
-1. Wire up the Arduino Nano, 74HC595 Shift Register, and HPDL1414 as per the schematic shown above.
+1. Wire up the Arduino Nano, 74HC595 Shift Register, and HPDL1414 as per the (functional) schematic shown below.
+
+<p align="center"><img src="https://github.com/senglk/NanoClock1414/blob/master/images/schematic.png" alt="Functional Schematic of NanoClock1414, image created using Fritzing and GIMP" /></p>
 
 2. Connect your computer to the the Arduino Nano using a USB cable.
 
