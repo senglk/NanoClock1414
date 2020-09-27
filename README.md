@@ -19,7 +19,7 @@ As the `NanoClock1414.ino` file would be uploaded to the Arduino Nano, means to 
 
 ### Python 3
 
-The accompanying `clock1414.py` script was written for Python 3. The script requires the following libraries:
+The accompanying `clock1414.py` script was written for Python 3. The script requires the following library:
 
 ### pySerial
 
